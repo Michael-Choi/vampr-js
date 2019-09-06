@@ -39,6 +39,8 @@ class Vampire {
     );
   }
 
+  /** Tree traversal methods **/
+
   // Returns the vampire object with that name, or null if no vampire exists with that name
   vampireWithName(name) {}
 
